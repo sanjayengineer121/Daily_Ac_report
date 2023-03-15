@@ -1,3 +1,25 @@
+ 32.1 KB
+
+import tkinter
+from tkinter import *
+import pyqrcode
+import tkinter.messagebox
+import customtkinter
+import requests
+import webbrowser
+from tkinter import filedialog
+import sqlite3
+import webbrowser
+from tkinter import ttk
+import tkinter as tk
+
+##importing library
+from tkinter import *
+from tkinter import font
+from PIL import ImageTk, Image 
+import time
+
+
 # Daily a/c Report
 
 <h2>Home Page(Dashbord)</h2>
