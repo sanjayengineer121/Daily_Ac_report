@@ -21,5 +21,11 @@
 <h2>Alter/Modify Tab Available where you can create ledger/unit/stock item</h2>
 <img src="https://github.com/sanjayengineer121/Daily_a-c_report/blob/main/Screenshot%20(245).png">
 
-<h2>Voucher Tab Available where you can create Sales/Payment/Reciept Voucher</h2>
-<img src="https://github.com/sanjayengineer121/Daily_a-c_report/blob/main/Screenshot%20(246).png">
+<h2>Create Tab Available where you can create Customer or Ledger</h2>
+<img src="https://github.com/sanjayengineer121/Daily_a-c_report/blob/main/Screenshot%20(249).png">
+
+<h2>Create Tab Available where you can create Customer or Product</h2>
+<img src="https://github.com/sanjayengineer121/Daily_a-c_report/blob/main/Screenshot%20(250).png">
+
+<h2>Voucher Tab Available where you can create Units and measurement</h2>
+<img src="https://github.com/sanjayengineer121/Daily_a-c_report/blob/main/Screenshot%20(251).png">
