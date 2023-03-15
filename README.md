@@ -29,3 +29,9 @@
 
 <h2>Voucher Tab Available where you can create Units and measurement</h2>
 <img src="https://github.com/sanjayengineer121/Daily_a-c_report/blob/main/Screenshot%20(251).png">
+
+<h2>Generate Voucher payment With alert</h2>
+<img src="https://github.com/sanjayengineer121/Daily_a-c_report/blob/main/Screenshot%20(252).png">
+
+<h2>Generate Reciept Voucher</h2>
+<img src="https://github.com/sanjayengineer121/Daily_a-c_report/blob/main/Screenshot%20(253).png">
