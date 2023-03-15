@@ -38,3 +38,6 @@
 
 <h2>Search any party transaction Record just entring first name</h2>
 <img src="https://github.com/sanjayengineer121/Daily_a-c_report/blob/main/Screenshot%20(248).png">
+
+<h2>SPLASH SCREEN</h2>
+<img src="https://github.com/sanjayengineer121/Daily_a-c_report/blob/main/Screenshot%20(247).png">
