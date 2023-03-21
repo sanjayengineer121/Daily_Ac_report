@@ -44,19 +44,19 @@ i mport sqlite3
 <img src="https://github.com/sanjayengineer121/Daily_a-c_report/blob/main/Screenshot%20(245).png">
 
 <h2>Create Tab Available where you can create Customer or Ledger</h2>
-<img src="https://github.com/sanjayengineer121/Daily_a-c_report/blob/main/Screenshot%20(249).png">
+<img src="https://user-images.githubusercontent.com/33143882/226523149-3a0ef6e7-eb5a-415b-bc3a-6ccec0eea540.png">
 
 <h2>Create Tab Available where you can create Customer or Product</h2>
-<img src="https://github.com/sanjayengineer121/Daily_a-c_report/blob/main/Screenshot%20(250).png">
+<img src="https://user-images.githubusercontent.com/33143882/226524416-8b9ab268-18c3-43cc-bc2e-f81a13b8766b.png">
 
 <h2>Voucher Tab Available where you can create Units and measurement</h2>
 <img src="https://github.com/sanjayengineer121/Daily_a-c_report/blob/main/Screenshot%20(251).png">
 
 <h2>Generate Voucher payment With alert</h2>
-<img src="https://github.com/sanjayengineer121/Daily_a-c_report/blob/main/Screenshot%20(252).png">
+<img src="https://user-images.githubusercontent.com/33143882/226524416-8b9ab268-18c3-43cc-bc2e-f81a13b8766b.png">
 
 <h2>Generate Reciept Voucher</h2>
-<img src="https://github.com/sanjayengineer121/Daily_a-c_report/blob/main/Screenshot%20(253).png">
+<img src="https://user-images.githubusercontent.com/33143882/226524439-431c6d83-112f-4c02-b9b2-51fc4bdd9d23.png">
 
 <h2>Search any party transaction Record just entring first name</h2>
 <img src="https://github.com/sanjayengineer121/Daily_a-c_report/blob/main/Screenshot%20(248).png">
