@@ -120,8 +120,9 @@ class App(customtkinter.CTk):
         self.sidebar_button_3.grid(row=3, column=0, padx=20, pady=10)
         self.sidebar_button_4 = customtkinter.CTkButton(self.sidebar_frame,text="NOTES",command=self.crnotes)
         self.sidebar_button_4.grid(row=4, column=0, padx=20, pady=10)
-        self.sidebar_button_5 = customtkinter.CTkButton(self.sidebar_frame,text="MORE",command=self.more)
-        self.sidebar_button_5.grid(row=5, column=0, padx=20, pady=10)
+        
+        #self.sidebar_button_5 = customtkinter.CTkButton(self.sidebar_frame,text="MORE",command=self.more)
+        #self.sidebar_button_5.grid(row=5, column=0, padx=20, pady=10)
 
         
         self.appearance_mode_label = customtkinter.CTkLabel(self.sidebar_frame, text="Appearance :", anchor="w")
@@ -314,6 +315,20 @@ class App(customtkinter.CTk):
         self.radio_button_3 = customtkinter.CTkRadioButton(master=self.radiobutton_frame, variable=self.radio_var, text="CASH",value=2)
         self.radio_button_3.grid(row=3, column=2, pady=10, padx=20, sticky="n")
 
+        import datetime as dd
+        from time import strftime
+
+        def time():
+                string = strftime('%H:%M:%S %p')
+                lbl.config(text=string)
+                lbl.after(1000, time)
+
+        date = dd.datetime.now()
+        lbl = tk.Label(master=self.radiobutton_frame, font=('calibri', 20, 'bold'),background='purple',foreground='white')
+        lbl.grid(row=4, column=2, pady=10, padx=20, sticky="n")
+        time()
+
+
 #================================create checkbox and switch frame===============
 
         self.checkbox_slider_frame = customtkinter.CTkFrame(self,fg_color="blue")
@@ -497,10 +512,6 @@ class App(customtkinter.CTk):
         Api="http://127.0.0.1:8082/send?mobile="+mbl+"&message="+message
         whatsAppHitApi = requests.get(Api)
         
-        
-        #Api="http://127.0.0.1:8082/send_att?mobile=6388574919&message=HOW ARE YOU SIR"
-        #whatsAppHitApi = requests.get(Api)
-        #x = requests.get('https://api.github.com')
         print(whatsAppHitApi)
 
 #==========================set appearance mode
@@ -529,7 +540,7 @@ class App(customtkinter.CTk):
 
     def Paybyqr(self):
         from subprocess import call
-        call(["python", "readqr.py"])
+        call(["python", "getpayment.py"])
     
 #==========================SCAN DOWNLOADED QR CODE
 
@@ -617,8 +628,8 @@ class App(customtkinter.CTk):
 
 #=================================Formate Our Columns
         
-        transactiontree.tag_configure('oddrow', background="white")
-        transactiontree.tag_configure('evenrow', background="lightblue")
+        transactiontree.tag_configure('oddrow', background="#c64343")
+        transactiontree.tag_configure('evenrow', background="Green")
 
 #====================================Connecting Database
 
@@ -647,7 +658,7 @@ class App(customtkinter.CTk):
         count1=0
 
         for record in row:
-            if count1 % 2 == 0:
+            if "RC" in record[2]:
                 transactiontree.insert(parent='', index='end', iid=count1, text="", values=(record[0], record[1], record[2],record[3],record[4]), tags=('evenrow',))
             else:
                 transactiontree.insert(parent='', index='end', iid=count1, text="", values=(record[0], record[1], record[2],record[3],record[4]), tags=('oddrow',))
@@ -753,8 +764,6 @@ class App(customtkinter.CTk):
 
 
 
-
-
 #==========================CALLING MAIN FUNCTION
 
     def recieptrepo(self):
@@ -806,7 +815,7 @@ class App(customtkinter.CTk):
 #=================================Formate Our Columns
         
         transactiontree.tag_configure('oddrow', background="white")
-        transactiontree.tag_configure('evenrow', background="lightblue")
+        transactiontree.tag_configure('evenrow', background="green")
 
 #====================================Connecting Database
 
@@ -829,7 +838,7 @@ class App(customtkinter.CTk):
         count1=0
 
         for record in row:
-            if count1 % 2 == 0:
+            if "RC" in record[2]:
                 transactiontree.insert(parent='', index='end', iid=count1, text="", values=(record[0], record[1], record[2],record[3],record[4]), tags=('evenrow',))
             else:
                 transactiontree.insert(parent='', index='end', iid=count1, text="", values=(record[0], record[1], record[2],record[3],record[4]), tags=('oddrow',))
