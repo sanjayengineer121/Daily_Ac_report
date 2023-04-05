@@ -198,6 +198,8 @@ Separate accounts are maintained based on their nature, so all information relat
 
 <h1 align="center">👋, Full Code Is available below</h1>
 
+<a href="https://github.com/sanjayengineer121/Daily_Ac_report/blob/main/Daily_Ac_report.zip" download="filename">Download link</a>
+
 ## For any help contact 
 - 6388574919 
 - sanjayyadav11210@gmail.com
@@ -207,8 +209,6 @@ Separate accounts are maintained based on their nature, so all information relat
 <a href="https://www.youtube.com/c/er.creation" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="er.creation" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/k1632_11602079_b37" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="k1632_11602079_b37" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/cybersecuritytutorials" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="cybersecuritytutorials" height="30" width="40" /></a>
-
-
 
 
 
