@@ -198,7 +198,7 @@ Separate accounts are maintained based on their nature, so all information relat
 
 <h1 align="center">👋, Full Code Is available below</h1>
 
-<a href="https://github.com/sanjayengineer121/Daily_Ac_report/blob/main/Daily_Ac_report.zip" download="filename">Download link</a>
+<a href="https://github.com/sanjayengineer121/Daily_Ac_report/blob/main/Daily_Ac_report.zip" download="filename">Download Zip</a>
 
 ## For any help contact 
 - 6388574919 
