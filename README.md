@@ -54,7 +54,35 @@ Accounting report software is a crucial tool for businesses to manage their fina
 
 In conclusion, accounting report software contributes to streamlined financial processes, enhanced accuracy, and valuable insights for informed decision-making across businesses of varying sizes.
 
+<h1 align="center">Hello 👋, Login Security Added</h1>
+
+<img src="https://i.postimg.cc/sg2cWk4L/Screenshot-2024-02-01-013430.png">
+
+- more security we will add like OTP access and time login 
+
 <h1 align="center">Hello 👋, New Dashboard</h1>
+<img src="https://i.postimg.cc/0QfB0ph5/Screenshot-2024-02-01-013513.png">
+
+- **This dashboard contain Payment graph such as growing or decreasing** 
+- **Financial Visibility:** new method of tracking any customer.
+- **Cost Control:** Monitors costs closely, identifying areas for savings.
+- **Improved speed**
+- **Auto Assigned vouchers no**
+- If any sponsor will sponsor then I will add advance Features.
+- Tracking From Vouchers no
+- many more
+
+<h1 align="center">Hello 👋, New Option Graph and Chart Visualization</h1>
+
+<img src="https://i.postimg.cc/66LN3Z3Q/Screenshot-2024-02-01-013542.png">
+
+- Payment graph
+- Total Payment
+- Total Customer
+- Total Received payment graph month wise
+- Total Received payment graph month wise
+- Last week payment graph
+- many more option will be added in upcoming days such as Filter options and Enhance UI amdWell
 
 <h1>What is a dashboard? A complete overview</h1>
 
@@ -64,7 +92,7 @@ In conclusion, accounting report software contributes to streamlined financial p
 
 Dashboards are useful across different industries and verticals because they’re highly customizable. They can include data of all sorts with varying date ranges to help you understand: what happened, why it happened, what may happen, and what action you should take. And since dashboards use visualizations like [tables](https://www.tableau.com/data-insights/reference-library/visual-analytics/tables), graphs, and [charts](https://www.tableau.com/data-insights/reference-library/visual-analytics/charts), others who aren’t as close to the data can quickly and easily understand the story it tells or the insights it reveals</p>
 
-<img src="https://github.com/sanjayengineer121/Daily_Ac_report/blob/main/img/software%20screenshot/Screenshot%20(398).png" height="480px" width="1000px">
+<img src="https://i.postimg.cc/0QfB0ph5/Screenshot-2024-02-01-013513.png">
 
 <h1 align="center">👋, New  UI for QR Generation</h1>
 
