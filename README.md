@@ -112,28 +112,8 @@ Dashboards are useful across different industries and verticals because they’r
 
 <img src="https://github.com/sanjayengineer121/Daily_Ac_report/blob/main/img/software%20screenshot/Screenshot%20(400).png" height="480px" width="1000px">
 
-<h1 align="center">👋, New  UI for QR Scamming/reader</h1>
 
-**What is a QR Code?**
 
-<p>A Quick Response code is a two-dimensional pictographic code used for its fast readability and comparatively large storage capacity. The code consists of black modules arranged in a square pattern on a white background. The information encoded can be made up of any kind of data (e.g., binary, alphanumeric, or Kanji symbols)</p>
-
-**Usage**
-
-<p>From the command line, use the installed qr script:</p>
-
-qr "Some text" > test.png
-
-**Liberary Used**
---ask file save
---python tkinter
---pyqrcode
---pillow
---scale
---png save
---bind
-
-<img src="https://github.com/sanjayengineer121/Daily_Ac_report/blob/main/img/software%20screenshot/Screenshot%20(401).png" height="480px" width="1000px">
 
 <h1 align="center">👋, New  UI for QR Notes Display And Description</h1>
 
