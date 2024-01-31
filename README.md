@@ -264,7 +264,8 @@ Separate accounts are maintained based on their nature, so all information relat
 
 ## For any help contact 
 - +916388574919
-- <a href="https://api.whatsapp.com/send?phone=916388574919&text=Hello" targe="_blank"> Send me Whatsapp </a>
+- <a href="https://api.whatsapp.com/send?phone=916388574919&text=Hello" targe="_blank"> Send me Whatsapp Business </a>
+<a href="whatsapp://send?phone=916388574919&text=Hello" target="_blank"> Send me Whatsapp</a>
 - sanjayyadav11210@gmail.com
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/sanjayyadav114) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/HotClubstatus) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/creative_edits17) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ersanjay19) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://programminghubintern.blogspot.com/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/engineerstechy) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@er.creation)
