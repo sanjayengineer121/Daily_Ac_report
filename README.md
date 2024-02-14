@@ -148,6 +148,14 @@ Separate accounts are maintained based on their nature, so all information relat
 
 <h1 align="center">👋, New  UI for Adding Products or Stock Items</h1>
 
+New Way of sales and invoices 
+
+<h1> Sales invoice creation </h1>
+<img src="https://i.postimg.cc/TYWmjtcz/Screenshot-2024-02-15-010059.png">
+
+<h1> Admin product and user management </h1>
+
+<img src="https://i.postimg.cc/262JwkCS/Screenshot-2024-02-15-010136.png">
 
 ## Stock Items
 <p>A stock item in TallyPrime is required to fill in information about the stock or inventory that your business deals with. Once you have created stock item, you can records your business transactions and keep track of the stock item details. Simply enter the name of the stock item you want to create and save it. Also, provide the opening balance details such as quantity, rate, value applicable tax rates so that you can record transactions in less time, without the need to enter all of these details each time in the transactions</p>
