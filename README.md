@@ -1,5 +1,3 @@
-**Full Changelog**: https://github.com/sanjayengineer121/Daily_Ac_report/compare/7.0...8.0
-
 Introducing the New and Enhanced Billing Software – Your Ultimate Solution for Streamlined Financial Transactions!
 
 Our latest version of the billing software comes packed with a suite of updated features designed to make your financial record-keeping easier, more efficient, and accurate. The revamped dashboard is now more user-friendly, providing an intuitive interface for managing sales and payment records. 
