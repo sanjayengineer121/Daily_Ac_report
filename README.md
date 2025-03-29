@@ -1,314 +1,386 @@
- # Daily a/c Report
+**Full Changelog**: https://github.com/sanjayengineer121/Daily_Ac_report/compare/7.0...8.0
 
- # Accounting Report Software
+Introducing the New and Enhanced Billing Software – Your Ultimate Solution for Streamlined Financial Transactions!
 
-Accounting report software is a crucial tool for businesses to manage their financial data efficiently and generate various reports that provide insights into the company's financial health. Here are some common uses and benefits of accounting report software:
+Our latest version of the billing software comes packed with a suite of updated features designed to make your financial record-keeping easier, more efficient, and accurate. The revamped dashboard is now more user-friendly, providing an intuitive interface for managing sales and payment records. 
 
-## Uses:
+One of the standout features is the integration of *Payment Documents*, which serve as critical records of all financial transactions, acting as evidence of exchanges while maintaining a precise and organized ledger of activities. These documents are categorized into **Accounting Vouchers** and **Inventory Vouchers**, helping you to effortlessly track both financial activities and inventory items. 
 
-### Financial Data Management:
+### Types of Vouchers:
+1. **Accounting Vouchers:** Record vital financial transactions such as payments, receipts, purchases, and sales.
+2. **Inventory Vouchers:** Efficiently track inventory items to maintain up-to-date stock levels.
+3. **Predefined Vouchers:** Pre-configured voucher types, including Contra, Payment, Receipt, Journal, Sales, Debit Note, Credit Note, and Purchase.
+4. **User-Defined Vouchers:** Customizable voucher types that cater to your business's unique requirements.
 
-- Accounting software helps businesses organize and manage financial data in a centralized system. It automates the process of recording transactions, making it easier to track income, expenses, and other financial activities.
+### Key Features & Functions:
+- **Voucher Entry Interface:** A streamlined and simple platform for generating voucher documents.
+- **Optional Vouchers:** Perfect for recording incomplete transactions or forecasting future sales without impacting current accounts.
+- **Journal Voucher:** Accurately record payments, adjustments, and movements of inventory.
+- **Contra Entry:** Record transactions like cash withdrawals from a bank or bank-to-bank transfers with ease.
+- **Voucher Verification:** A new feature in TallyPrime that allows you to verify the accuracy of all entered vouchers with just a few clicks.
 
-### Invoicing and Billing:
+### How to Create and Use Vouchers:
+- **Navigate to Voucher Entry:** Access this feature from the Gateway of Tally > Vouchers or simply press  > Create Voucher.
+- **Select Voucher Type:** Choose the appropriate voucher type for your transaction, such as F5 for Payment or F4 for Sales.
+- **Enter Transaction Details:** Input relevant information such as date, invoice number, party name, ledger accounts, amounts, and narration.
+- **Save the Voucher:** Hit Ctrl+A to save the completed voucher.
 
-- Many accounting software solutions include features for creating and sending invoices to clients. This streamlines the billing process and helps ensure timely payments.
+With new updates rolling out regularly, this billing software is continuously evolving to provide you with even more tools and features to better manage your business finances. Stay ahead of the curve with regular improvements and ensure that your business transactions are recorded accurately, effortlessly, and with the highest level of precision.
 
-### Expense Tracking:
+![Screenshot (222)](https://github.com/user-attachments/assets/471c3030-4e16-47e6-8e1a-98612fd95987)
 
-- Businesses can track and categorize expenses more efficiently using accounting software. This includes tracking both fixed and variable costs, enabling better control over expenditures.
-
-### Bank Reconciliation:
-
-- Accounting software facilitates the reconciliation of bank statements with the company's financial records. This ensures accuracy and helps identify any discrepancies or errors.
-
-### Financial Reporting:
-
-- One of the primary functions of accounting software is to generate various financial reports. These reports include profit and loss statements, balance sheets, cash flow statements, and other custom reports, providing a comprehensive view of the company's financial performance.
-
-### Budgeting and Forecasting:
-
-- Accounting software often includes tools for budgeting and forecasting. Businesses can set financial goals, create budgets, and use forecasting features to project future financial performance.
-
-### Tax Compliance:
-
-- Accounting software helps businesses stay compliant with tax regulations. It automates tax calculations, generates tax reports, and assists in the preparation of financial information needed for tax filing.
-
-### Audit Trails:
-
-- Accounting software maintains detailed audit trails, tracking changes made to financial data. This feature enhances accountability and helps in identifying and resolving discrepancies.
-
-### Integration with Other Systems:
-
-- Many accounting software solutions integrate with other business systems such as payroll, CRM (Customer Relationship Management), and ERP (Enterprise Resource Planning), ensuring seamless data flow across different departments.
-
-## Benefits:
-
-- **Time Savings:** Automates routine tasks, saving time for more strategic activities.
-- **Financial Visibility:** Provides real-time visibility into the company's financial health.
-- **Cost Control:** Monitors costs closely, identifying areas for savings.
-- **Improved Cash Flow Management:** Enhances the ability to manage cash flow effectively.
-- **Compliance and Reporting:** Assists in compliance with regulations and streamlines reporting.
-- **Scalability:** Scales to accommodate business growth and increasing data volumes.
-- **Collaboration:** Enables collaboration among team members with secure access to financial data.
-
-In conclusion, accounting report software contributes to streamlined financial processes, enhanced accuracy, and valuable insights for informed decision-making across businesses of varying sizes.
 
 <h1 align="center">Hello 👋, Login Security Added</h1>
 
-<img src="https://i.postimg.cc/sg2cWk4L/Screenshot-2024-02-01-013430.png">
+![Screenshot (224)](https://github.com/user-attachments/assets/ae4f9065-e2dc-4546-ae69-63a44f462344)
 
-- more security we will add like OTP access and time login 
 
-<h1 align="center">Hello 👋, New Dashboard</h1>
-<img src="https://i.postimg.cc/0QfB0ph5/Screenshot-2024-02-01-013513.png">
 
-- **This dashboard contain Payment graph such as growing or decreasing** 
-- **Financial Visibility:** new method of tracking any customer.
-- **Cost Control:** Monitors costs closely, identifying areas for savings.
-- **Improved speed**
-- **Auto Assigned vouchers no**
-- If any sponsor will sponsor then I will add advance Features.
-- Tracking From Vouchers no
-- many more
+Introducing Enhanced Login Security – Safeguarding Your Financial Data Like Never Before!
+
+Our latest billing software update comes with robust login security features to ensure that only authorized users can access sensitive financial data. With the newly implemented security measures, you can rest assured that your information is protected at all times.
+
+### Key Security Features:
+
+1. **Login Required for Access:**  
+   To prevent unauthorized access, the software now requires users to log in before gaining access to any functionality. No one can enter the system without providing valid login credentials.
+
+2. **Password Encryption (Non-Reversible):**  
+   To further safeguard your data, passwords are now stored in an encrypted, non-reversible format. This means even if someone gains access to the database, they will not be able to retrieve or decode your password, ensuring your sensitive information is secure.
+
+3. **Session Management:**  
+   After a successful login, the software will create a secure session for the user. This session will remain active for 30 days, so users won't have to log in repeatedly during this time. The session will remain valid until the user logs out, providing both convenience and security.
+
+4. **Automatic Session Expiry:**  
+
+   After 30 days, the session will automatically expire, requiring the user to log in again to continue using the software. This feature ensures that even if a session is left open or idle for a prolonged period, the system maintains high security.
+
+### Benefits:
+- **Enhanced Security:** Only authorized users can access the software, reducing the risk of data breaches.
+- **Convenient Session Management:** Users don’t need to log in repeatedly for 30 days, improving efficiency without compromising security.
+- **Non-Reversible Password Storage:** Ensures that even the most secure databases cannot access your password.
+
+With these updates, you can confidently manage your business's financial transactions while ensuring that sensitive data remains private and secure at all times.
 
 <h1 align="center">Hello 👋, New Option Graph and Chart Visualization</h1>
 
-<img src="https://i.postimg.cc/66LN3Z3Q/Screenshot-2024-02-01-013542.png">
+![image](https://github.com/user-attachments/assets/580f00f5-d0c6-48f5-964a-87382c8cea59)
 
-- Payment graph
-- Total Payment
-- Total Customer
-- Total Received payment graph month wise
-- Total Received payment graph month wise
-- Last week payment graph
-- many more option will be added in upcoming days such as Filter options and Enhance UI amdWell
+Introducing the Sleek and Minimalistic Graphs – A Fresh Look for Your Business Insights!
 
-<h1>What is a dashboard? A complete overview</h1>
+Our latest update brings you a completely redesigned graph feature that is sleek, modern, and incredibly intuitive. With a focus on clean, minimalistic design, the new graphs allow you to view your business data more clearly and efficiently. Whether you’re tracking sales, payments, or inventory, the new graphs provide a visually appealing and easy-to-understand experience.
 
-<p>In this day and age, understanding data is the key to making the best decisions for any business. However, the amount of information that’s available at any time can be overwhelming for the most data-savvy person.</p>
+### Key Features of the New Graphs:
+1. **Minimalistic Design:**  
+   The new graph design focuses on simplicity, presenting the data in a clear, uncluttered way. This makes it easier for you to focus on what matters most without distractions.
 
-<p>A dashboard is a way of displaying various types of visual data in one place. Usually, a dashboard is intended to convey different, but related information in an easy-to-digest form. And oftentimes, this includes things like key performance indicators (KPI)s or other important business metrics that stakeholders need to see and understand at a glance.
+2. **Sleek and Modern Aesthetics:**  
+   With smooth transitions, crisp lines, and updated color schemes, the graphs look sleek and professional, enhancing the visual experience of your dashboard.
 
-Dashboards are useful across different industries and verticals because they’re highly customizable. They can include data of all sorts with varying date ranges to help you understand: what happened, why it happened, what may happen, and what action you should take. And since dashboards use visualizations like [tables](https://www.tableau.com/data-insights/reference-library/visual-analytics/tables), graphs, and [charts](https://www.tableau.com/data-insights/reference-library/visual-analytics/charts), others who aren’t as close to the data can quickly and easily understand the story it tells or the insights it reveals</p>
+3. **Intuitive User Interface:**  
+   The user interface has been designed to be as intuitive as possible. Whether you're viewing sales trends or monitoring payment activities, navigating through the graphs is seamless, allowing you to extract insights quickly.
 
-<img src="https://i.postimg.cc/0QfB0ph5/Screenshot-2024-02-01-013513.png">
+4. **Future Updates:**  
+   We are committed to continuous improvement. In the future, expect even more updates to the graph feature, adding new visualization options, advanced analytics, and interactive elements to enhance your business decision-making.
 
-<h1 align="center">👋, New  UI for QR Generation</h1>
+With this minimalist update, we’ve made it easier for you to track your financial and business performance, all while keeping the experience fresh and aesthetically pleasing. As always, we are continuously working on new enhancements to ensure the software keeps evolving to meet your needs. Stay tuned for more exciting updates coming soon!
 
-<p>What is a QR Code generator? It is a niche tool that is used to generate different types of QR Codes. Depending on your purpose, you can use our generator to create QR Codes to open a website, view a PDF file, listen to music, watch Youtube videos, store image files, connect to a WiFi network, and much more. Explore the different types here.</p>
+<h1 align="center">Hello 👋, New Updated and More sleek and perfect Rich options </h1>
 
-**Liberary Used**
---ask file save
---python tkinter
---pyqrcode
---pillow
---scale
---png save
---bind
-<img src="https://github.com/sanjayengineer121/Daily_Ac_report/blob/main/img/software%20screenshot/Screenshot%20(399).png" height="480px" width="1000px">
 
-**after Submit**
+vouchers are the documents that record financial transactions, and they are categorized into accounting and inventory vouchers, allowing users to track financial activities and inventory items separately. 
 
-<img src="https://github.com/sanjayengineer121/Daily_Ac_report/blob/main/img/software%20screenshot/Screenshot%20(400).png" height="480px" width="1000px">
 
+<h2>Types of Vouchers in TallyPrime:</h2>
+## Accounting Vouchers:
+Used to record financial transactions like payments, receipts, purchases, and sales. 
 
+<h2>payments</h2>
 
+![Screenshot (223)](https://github.com/user-attachments/assets/eecdf42a-d27f-4911-a6be-70d1fc28e3a1)
 
-<h1 align="center">👋, New  UI for QR Notes Display And Description</h1>
+### **Payments Vouchers – Streamlining Your Payment Transactions**
 
-**What is a Notes?**
-<h1>Organize your work and life, finally.</h1>
-<p>Become focused, organized, and calm with Todoist. The world’s #1 task manager and to-do list app.</p>
+The **Payment Voucher** feature in our billing software plays a crucial role in recording all your payment-related financial transactions, providing a seamless way to manage and track outgoing funds. Whether you are paying suppliers, settling bills, or handling other types of payments, the Payment Voucher makes it easier to record and organize all payment activities.
 
-<h1 align="center">Todoist: To-Do List & Planner </h1>
+### **Key Features of Payment Vouchers:**
 
-**Add your tasks.**
-**Organize your life.**
-**Achieve more every day.**
-<p>Add tasks like “Read work emails every day at 10am” to fill your to-do list in seconds using Todoist’s powerful natural language recognition and recurring dates.</p>
+1. **Easy Payment Tracking:**
+   The Payment Voucher allows you to record all outgoing payments efficiently. Whether payments are made by cash, cheque, bank transfer, or any other mode, each transaction is captured accurately and stored for future reference.
 
-<img src="https://github.com/sanjayengineer121/Daily_Ac_report/blob/main/img/software%20screenshot/Screenshot%20(402).png" height="480px" width="1000px">
+2. **Complete Financial Documentation:**
+   Payment vouchers act as official records, ensuring your financial transactions are well-documented. They serve as evidence for audits and help maintain an accurate history of payments made.
 
-<h1 align="center">👋, New  UI for Adding Customers & Vender Party</h1>
+3. **User-Friendly Interface:**
+   The Payment Voucher interface is designed to be easy to use, allowing users to input details such as the payment date, invoice number, party name, payment method, and amounts. This ensures all necessary information is captured for thorough record-keeping.
 
-**What is a Ledger and Why is it Defined as Principle Book of Accounts?**
-<p>Journal is a memorandum book to record transactions date wise. On a particular date, what are total purchases, total sales, debtors, creditors, incomes, expenses may not be known as journal. And to get information about the above, the entries passed in the journal are 
+4. **Integration with Accounting System:**
+   The Payment Voucher seamlessly integrates with your overall accounting system, updating the general ledger and corresponding accounts (such as cash, bank, or accounts payable) automatically, reducing the need for manual bookkeeping.
 
-An account represents a detailed record of changes that have occurred in a particular asset, liability, expense, loss, gain or capital during the accounting period. All these separate accounts are kept in a loose leaf binder, and the entire group of accounts is called a ledger.</p>
-<h2>Utility of a Ledger</h2>
+5. **Flexibility:**
+   Whether you are making a single payment or multiple payments to different suppliers, the Payment Voucher feature allows you to customize and manage each transaction as needed. You can create as many payment vouchers as necessary, maintaining clear and organized financial records.
 
-- The ledger is a master record of all the accounts of a business unit
--  It is a principal book of double entry system of accounting which provides all important information
-Separate accounts are maintained based on their nature, so all information relating to transactions may be obtained through ledgers, such as to whom what is payable, from whom what is receivable, what is the position of assets and liabilities of the business
-- Ledger helps us preparing the trial balance to ensure the arithmetical accuracy of the account 
-- Moreover, ledger assists us in preparing trading, profit and loss account and Balance sheet
+### **How to Create a Payment Voucher:**
+1. **Navigate to the Voucher Entry:**  
+   From the Gateway of Tally, go to **Vouchers** or press **Alt+G > Create Voucher**.
 
-<img src="https://github.com/sanjayengineer121/Daily_Ac_report/blob/main/img/software%20screenshot/Screenshot%20(403).png" height="480px" width="1000px">
+2. **Select Payment Voucher Type:**  
+   Choose the **F5 (Payment)** voucher type to record a payment transaction.
 
-<h1 align="center">👋, New  UI for Adding Products or Stock Items</h1>
+3. **Enter Transaction Details:**  
+   Input the necessary details, including:
+   - **Payment Date**
+   - **Invoice Number**
+   - **Party Name**
+   - **Payment Method** (cash, bank, cheque, etc.)
+   - **Ledger Accounts** (e.g., cash, bank, or creditors)
+   - **Amount** and **Narration** (brief description of the payment)
 
-New Way of sales and invoices 
+4. **Save the Voucher:**  
+   Once the details are entered, press **Ctrl+A** to save the voucher.
 
-<h1> Sales invoice creation </h1>
-<img src="https://i.postimg.cc/TYWmjtcz/Screenshot-2024-02-15-010059.png">
+5. **Verify and Review:**  
+   You can always verify the accuracy of your Payment Vouchers and track past transactions easily via reports and the voucher verification feature.
 
-<h1> Admin product and user management </h1>
+### **Benefits of Payment Vouchers:**
+- **Improved Accuracy:** Ensures all payments are accurately recorded with clear and detailed transaction histories.
+- **Streamlined Reporting:** Simplifies the generation of financial reports, such as cash flow and accounts payable, by providing consistent and structured payment records.
+- **Enhanced Accountability:** Acts as a formal record of payments, ensuring that every financial transaction is accounted for and transparent.
 
-<img src="https://i.postimg.cc/262JwkCS/Screenshot-2024-02-15-010136.png">
+By leveraging Payment Vouchers, you can ensure all your payment transactions are accurately recorded, facilitating smooth financial management and providing a clear audit trail for your business.
 
-## Stock Items
-<p>A stock item in TallyPrime is required to fill in information about the stock or inventory that your business deals with. Once you have created stock item, you can records your business transactions and keep track of the stock item details. Simply enter the name of the stock item you want to create and save it. Also, provide the opening balance details such as quantity, rate, value applicable tax rates so that you can record transactions in less time, without the need to enter all of these details each time in the transactions</p>
+<h2>receipts<h2>
+![image](https://github.com/user-attachments/assets/eb55f1f3-4a23-4a7e-a201-0f8a0cc41350)
 
-## In this section
+### **Receipt Voucher – Simplifying Incoming Payments**
 
- Create stock items
-- Delete stock items
-- Create Units for Stock Items
-- Tax rate of stock items
-- Stock items in transactions
-- Opening Stock and Closing Stock values
+A **Receipt Voucher** is used to record all incoming payments, helping you manage and track payments received from customers, clients, or other sources. It ensures that your accounts are updated and accurate.
 
-<img src="https://github.com/sanjayengineer121/Daily_Ac_report/blob/main/img/software%20screenshot/Screenshot%20(404).png" height="480px" width="1000px">
+### **Key Features:**
+1. **Track Incoming Payments:** Records payments received via cash, bank transfer, cheque, or other methods.
+2. **Seamless Integration:** Automatically updates your cash, bank, or accounts receivable ledger.
+3. **Detailed Record-Keeping:** Captures essential details like payment date, party name, invoice number, payment mode, and amount.
 
-<h1 align="center">👋, New  UI for Adding Units & Measurements</h1>
+### **How to Create a Receipt Voucher:**
+1. Navigate to **Voucher Entry** and select **F6 (Receipt)**.
+2. Enter the relevant transaction details (payment date, party name, amount, etc.).
+3. Save the voucher by pressing **Ctrl+A**.
 
-## Compound Unit of Measure
+The Receipt Voucher ensures that every incoming payment is accurately recorded, streamlining your accounting process.
 
-- Payroll Configurations
-- Enable Payroll
-- Enable Payroll Statutory
-- Define employee category
-- Define employee Groups
-- Create Employees Master Data
-- Create Simple Payroll Units
-- Create Compound Payroll Units
-
-<img src="https://github.com/sanjayengineer121/Daily_Ac_report/blob/main/img/software%20screenshot/Screenshot%20(405).png" height="480px" width="1000px">
-
-<h1 align="center">👋, New  UI for Adding Receipt Voucher</h1>
-
-## Record a Receipt Voucher
-<p>You can use a receipt voucher to record cash and bank receipts. You can record using Single Entry or Double Entry mode.</p>
 
-## Cash receipts
-<p>In business, you might want to record receipts for Commission, Bank Interest, Discounts Received, Receipts from Customers, and so on. TallyPrime allows you to record such cash receipts using Receipt Voucher in single-entry mode. You can use a single-entry mode of accounting if you are unfamiliar with the accounting rules. Once you select the ledgers correctly, TallyPrime automatically records your transaction as per the accounting rules.</p>
+<h2> Sales Vouchers </h2>
 
-## Bank receipts 
-<p>You can receive bank receipts and record them using Receipt Vouchers. Select the Bank account under the Account field and income or party ledger under Particulars. In the Bank Allocation screen, you can specify the transaction type as well as other details such as the instrument number if you received the funds by cheque.</p>
+![image](https://github.com/user-attachments/assets/2fc1c75b-6af7-4d49-9a15-8ddd8259573d)
 
-## Receipt Method
-- cash
-- HDFC Bank
-- ICICI Bank
-- "Kotak Mahindra Bank"
-- IndusInd Bank
-- Yes Bank
-- Punjab National Bank
-- Bank Of Baroda
-- State Bank of India
-- Axis Bank Ltd.
-- Bank of India
-- PAYTM BANK
-- PHONE PAY
-- GOOGLE PAY
+### **Sales Voucher – Simplifying Sales Transactions**
 
-<img src="https://github.com/sanjayengineer121/Daily_Ac_report/blob/main/img/software%20screenshot/Screenshot%20(406).png" height="480px" width="1000px">
+A **Sales Voucher** is used to record all sales transactions, whether cash or credit, for goods or services provided by your business. It helps maintain accurate sales records for financial tracking and reporting.
 
+### **Key Features:**
+1. **Track Sales Transactions:** Captures all details related to sales, including customer information, products/services sold, amounts, and taxes.
+2. **Inventory and Accounting Integration:** Automatically updates inventory levels and accounts such as sales revenue and accounts receivable.
+3. **Efficient Record-Keeping:** Keeps a clear record of sales for reporting, invoicing, and audit purposes.
 
-<h1 align="center">👋, New  UI for Adding/Creating Payment Voucher</h1>
+### **How to Create a Sales Voucher:**
+1. Navigate to **Voucher Entry** and select **F8 (Sales)**.
+2. Enter the necessary details (customer name, items sold, amount, etc.).
+3. Save the voucher by pressing **Ctrl+A**.
 
-## Record a Payment Voucher
-<p>In TallyPrime, you can go to the Payment Register to view the payment entries recorded. It is a monthly report and shows the number of transactions recorded per month. You can drill down and view the transactions recorded, and you can also make changes to the vouchers if required. If you use a Journal Voucher to record your payment transactions, you can view them in the Journal</p>
+The Sales Voucher ensures that all sales transactions are accurately captured, streamlining accounting and inventory management.
 
-### You can use a Payment voucher to record cash and bank payments using Entry  mode. 
+<h2>Purchase Voucher </h2>
+![image](https://github.com/user-attachments/assets/46d57ce0-5bd1-4ffa-8b67-dd600aecfa04)
 
-## In this section
+### **Purchase Voucher – Simplifying Purchase Transactions**
 
-- Cash payment in Payment Voucger
-- Bank payments in Single Entry and you can track all today amount
-- Payments in new Entry mode
-- Provide narration for each ledger in the payment voucher
+A **Purchase Voucher** is used to record all purchase transactions for goods or services bought by your business, whether on cash or credit. It helps keep track of all incoming inventory and supplier payments.
 
-## Paymentt Method
-- cash
-- HDFC Bank
-- ICICI Bank
-- "Kotak Mahindra Bank"
-- IndusInd Bank
-- Yes Bank
-- Punjab National Bank
-- Bank Of Baroda
-- State Bank of India
-- Axis Bank Ltd.
-- Bank of India
-- PAYTM BANK
-- PHONE PAY
-- GOOGLE PAY
-<img src="https://github.com/sanjayengineer121/Daily_Ac_report/blob/main/img/software%20screenshot/Screenshot%20(407).png" height="480px" width="1000px">
+### **Key Features:**
+1. **Track Purchase Transactions:** Captures details like supplier information, items purchased, quantities, amounts, and taxes.
+2. **Inventory and Accounting Integration:** Automatically updates inventory levels and accounts such as accounts payable and purchase expenses.
+3. **Efficient Record-Keeping:** Ensures accurate documentation for reporting, invoicing, and audit purposes.
 
-# library Used Majorly and some more
+### **How to Create a Purchase Voucher:**
+1. Navigate to **Voucher Entry** and select **F9 (Purchase)**.
+2. Enter the necessary details (supplier name, items purchased, amounts, etc.).
+3. Save the voucher by pressing **Ctrl+A**.
 
-- tkinter
-- from tkinter import *
-- pyqrcode
-- tkinter.messagebox
-- customtkinter
-- requests
-- webbrowser
-- from ter import filedialog
-- qlite3
-- mport webbrowser
-- from kinter import ttk
-- import tkinter as tk
-- from tkinter import *
-- from tkinter import font
-- from PIL import ImageTk, Image 
-- time
+The Purchase Voucher ensures smooth tracking of all purchases, aiding in efficient inventory and financial management.
 
-<h1 align="center">👋, Full Code Is available below</h1>
+<h2>Purchase Order </h2>
 
-<a href="https://github.com/sanjayengineer121/Daily_Ac_report/blob/main/Daily_Ac_report.zip" download="filename">Download Zip</a>
+![image](https://github.com/user-attachments/assets/e7ea9e88-d91a-462e-8d30-8e0b7a75fac0)
 
-## For any help contact 
-- +916388574919
-- <a href="https://api.whatsapp.com/send?phone=916388574919&text=Hello" targe="_blank"> Send me Whatsapp Business </a>
-- <a href="whatsapp://send?phone=916388574919&text=Hello" target="_blank"> Send me Whatsapp </a>
-- sanjayyadav11210@gmail.com
-## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/sanjayyadav114) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/HotClubstatus) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/creative_edits17) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ersanjay19) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://programminghubintern.blogspot.com/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/engineerstechy) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@er.creation)
-<br>
-<a href="https://www.youtube.com/c/er.creation" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="er.creation" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/k1632_11602079_b37" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="k1632_11602079_b37" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/cybersecuritytutorials" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="cybersecuritytutorials" height="30" width="40" /></a>
+### **Purchase Order Voucher – Streamlining Purchase Orders**
 
+A **Purchase Order Voucher** is used to create and manage purchase orders, which are sent to suppliers before the actual purchase takes place. It serves as a formal request for goods or services and helps in managing procurement processes.
 
+### **Key Features:**
+1. **Track Purchase Orders:** Records details of the order, including supplier, items, quantities, prices, and delivery schedules.
+2. **Integration with Purchase Vouchers:** Once goods are received, the purchase order can be converted into a purchase voucher to update accounts and inventory.
+3. **Efficient Procurement Management:** Helps in maintaining a clear record of orders placed with suppliers.
 
+### **How to Create a Purchase Order Voucher:**
+1. Navigate to **Voucher Entry** and select **F4 (Purchase Order)**.
+2. Enter the necessary details (supplier name, items, quantities, etc.).
+3. Save the order by pressing **Ctrl+A**.
 
+The Purchase Order Voucher simplifies the procurement process, making it easier to track and manage orders before the actual purchase is made.
 
+<h2> Sales Return (credit note) </h2>
 
+![image](https://github.com/user-attachments/assets/3059ad08-1363-45d9-95e7-0b29c17677f0)
 
+### **Sales Return Voucher – Managing Product Returns**
 
+A **Sales Return Voucher** is used to record the return of goods sold to customers. It helps update inventory and accounts when items are returned, ensuring accurate sales and stock levels.
 
+### **Key Features:**
+1. **Track Product Returns:** Records details of goods returned by customers, including items, quantities, and reasons for return.
+2. **Inventory and Accounting Integration:** Automatically updates inventory and accounts like sales return and accounts receivable.
+3. **Efficient Record-Keeping:** Ensures accurate tracking of returns for reporting and audits.
 
+### **How to Create a Sales Return Voucher:**
+1. Navigate to **Voucher Entry** and select **Ctrl+F8 (Sales Return)**.
+2. Enter the necessary details (customer name, items returned, amounts, etc.).
+3. Save the voucher by pressing **Ctrl+A**.
 
+The Sales Return Voucher simplifies the process of managing product returns, keeping your sales and inventory data up-to-date.
 
+<h2> Contra </h2>
 
+![image](https://github.com/user-attachments/assets/6107d258-753d-42ec-9d4e-7646baac693a)
 
+### **Contra Voucher – Managing Cash and Bank Transfers**
 
+A **Contra Voucher** is used to record transactions between cash and bank accounts, such as cash withdrawals, deposits, or transfers between bank accounts. It helps keep track of internal fund movements.
 
+### **Key Features:**
+1. **Track Internal Transfers:** Records transactions like cash withdrawn from a bank, cash deposited into a bank, or bank-to-bank transfers.
+2. **Accounting Integration:** Updates the relevant cash and bank accounts automatically.
+3. **Efficient Fund Management:** Provides a clear record of all cash and bank-related transactions.
 
+### **How to Create a Contra Voucher:**
+1. Navigate to **Voucher Entry** and select **F4 (Contra)**.
+2. Enter the relevant details (transaction type, amounts, cash or bank accounts involved).
+3. Save the voucher by pressing **Ctrl+A**.
 
+The Contra Voucher simplifies internal fund management, ensuring that cash and bank transactions are recorded accurately and efficiently.
 
+<h2> some more like that Material in & out , Credit Note & Debit note, Delivery Note some more need to add if requirement </h3>
 
+## Inventory Management:
 
+<h2> Add Products </h2>
 
+![image](https://github.com/user-attachments/assets/a27be596-112f-4140-907a-a30611a4424a)
 
+![image](https://github.com/user-attachments/assets/28a4c0c1-1b44-4a31-a1f7-6aebdcb8b70c)
 
 
+### **Adding Products – Managing Your Inventory Efficiently**
 
+The **Add Products** feature in the billing software allows you to easily add new products to your inventory. This ensures that all items for sale or purchase are tracked and updated in your system.
 
+### **Key Features:**
+1. **Product Information:** Add product details such as name, category, unit of measure, description, and price.
+2. **Stock Management:** Automatically updates inventory levels when products are added, sold, or returned.
+3. **Tax Integration:** Track applicable taxes for each product, ensuring accurate sales tax calculations.
+4. **Multi-Currency Support:** Manage products in different currencies for businesses operating internationally.
 
+### **How to Add Products:**
+1. **Navigate to Product Entry:**  
+   Go to **Inventory > Products** or select **Alt+G > Create Product**.
+   
+2. **Enter Product Details:**  
+   Input key information like:
+   - **Product Name**
+   - **Category**
+   - **Unit of Measure** (e.g., pieces, kg, liters)
+   - **Price** and **Tax Information**
 
+3. **Save the Product:**  
+   Once details are filled in, click **Ctrl+A** to save the product.
 
+### **Benefits of Adding Products:**
+- **Accurate Inventory Tracking:** Ensure your inventory levels are up-to-date and avoid stock-outs or overstocking.
+- **Streamlined Sales Process:** Products are automatically available for selection during sales and purchase transactions.
+- **Easy Product Management:** Quickly update or delete products as needed.
+
+By adding products to your system, you ensure that your inventory and sales processes are streamlined, allowing for better management and reporting.
+
+
+<h2> Add Customer </h2>
+
+![image](https://github.com/user-attachments/assets/65039230-53b6-496d-987f-55f2ec504b31)
+
+### **Adding Customers – Efficient Customer Management**
+
+The **Add Customers** feature allows you to easily add and manage customer details, ensuring smooth transactions and communication.
+
+### **Key Features:**
+1. **Customer Information:** Store key details like name, contact information, billing/shipping address, and credit terms.
+2. **Transaction History:** Track customer transactions for quick reference in sales and receipts.
+3. **Payment Terms & Credit Limits:** Set specific payment terms and credit limits for each customer.
+
+### **How to Add Customers:**
+1. **Navigate to Customer Entry:**  
+   Go to **Gateway of Tally > Accounts Info > Ledgers > Create**.
+   
+2. **Enter Customer Details:**  
+   Fill in essential information such as:
+   - **Customer Name**
+   - **Contact Info**
+   - **Billing Address** and **Shipping Address**
+   - **Credit Terms**
+
+3. **Save the Customer:**  
+   Press **Ctrl+A** to save the customer record.
+
+### **Benefits:**
+- **Improved Customer Relationship:** Keep track of customer details and preferences.
+- **Efficient Transactions:** Simplify sales and receipt processes by having customer information readily available.
+
+Adding customers to your system ensures a smoother workflow and better customer relationship management.
+
+
+<h2> Add Units of measurement </h2>
+
+### **Adding Unit of Measurement – Streamlining Product Tracking**
+
+The **Add Unit of Measurement** feature allows you to define and manage the units in which your products are sold or purchased. This ensures accurate tracking of quantities in your inventory and transactions.
+
+### **Key Features:**
+1. **Customizable Units:** Add custom units such as pieces, kilograms, liters, boxes, or any other unit that suits your business.
+2. **Consistent Inventory Management:** Ensure products are tracked in the correct unit for accurate stock levels.
+3. **Simplified Transactions:** Use defined units in sales, purchase, and inventory transactions for smooth operations.
+
+### **How to Add Units of Measurement:**
+1. **Navigate to Unit of Measurement Entry:**  
+   Go to **Inventory Info > Units of Measurement** or press **Alt+G > Create Unit**.
+
+2. **Enter Unit Details:**  
+   Define the unit by entering:
+   - **Unit Name** (e.g., Piece, KG, Box)
+   - **Abbreviation** (e.g., PCS, KG, BOX)
+   - **Number of Decimal Places** (if needed)
+
+3. **Save the Unit:**  
+   Press **Ctrl+A** to save the unit of measurement.
+
+### **Benefits:**
+- **Accurate Stock Tracking:** Ensures quantities are correctly recorded in the desired units.
+- **Standardized Transactions:** Maintain consistency in all inventory and sales/purchase transactions.
+  
+By adding units of measurement, you ensure that your inventory and sales processes remain accurate and efficient.
+
+
+
+
+## Predefined Vouchers:
+we offers pre-defined voucher types, including Contra, Payment, Receipt, Journal, Sales, Debit Note, Credit Note, and Purchase. 
+User-defined Vouchers:
+
+I have shown earlier
 
