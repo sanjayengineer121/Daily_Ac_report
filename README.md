@@ -1,4 +1,3 @@
-
 ---
 
 # **📢 New & Enhanced Billing Software – The Ultimate Financial Management Solution!**  
@@ -20,20 +19,9 @@ The new **Payment Documents** feature provides a structured ledger for financial
 ✔ **Predefined Vouchers:** Contra, Payment, Receipt, Journal, Sales, Debit Note, Credit Note, and Purchase.  
 ✔ **User-Defined Vouchers:** Customizable vouchers tailored to your business needs.  
 
-### **🛠 Key Voucher Features & Functions:**  
-- **🔹 Voucher Entry Interface** – Simple & streamlined voucher generation.  
-- **🔹 Optional Vouchers** – Record future transactions without affecting accounts.  
-- **🔹 Journal Voucher** – Accurately track adjustments and inventory movements.  
-- **🔹 Contra Entry** – Manage bank transfers & cash withdrawals effortlessly.  
-- **🔹 Voucher Verification** – New feature in **TallyPrime** for one-click verification.  
 
-💡 **How to Create & Use Vouchers?**  
-1️⃣ Go to **Gateway of Tally > Vouchers > Create Voucher**.  
-2️⃣ Choose a voucher type: **F5 (Payment), F4 (Sales), etc.**  
-3️⃣ Enter details like date, invoice number, party name, ledger accounts & amount.  
-4️⃣ Press **Ctrl + A** to save the voucher.  
+![image](https://github.com/user-attachments/assets/7bb10170-52cb-4ce2-9b0d-c691731d2a62)
 
-![Screenshot (222)](https://github.com/user-attachments/assets/471c3030-4e16-47e6-8e1a-98612fd95987)
 
 
 <h1 align="center">Hello 👋, Login Security Added</h1>
@@ -58,30 +46,355 @@ Security is a top priority! Our new **robust login security features** ensure th
 
 
 
+<h1 align="center">Hello 👋, New Features Added Day wise track of any category bluchers created </h1>
 
-<h1 align="center">Hello 👋, New Option Graph and Chart Visualization</h1>
+Here’s a professional and concise GitHub description you can use for documenting the new feature related to **"Day-wise tracking of any category bluchers created"** in your project:
 
-## **📊 New Graph & Chart Visualization – Minimalistic & Intuitive!**  
+---
 
-We’ve introduced **sleek, modern, and intuitive** graphs for better business insights.  
+### ✨ New Feature: Day-wise Tracking of Bluchers Created
 
-### **📈 Key Graph Features:**  
-✔ **Minimalistic Design** – Clean, clutter-free data presentation.  
-✔ **Modern Aesthetic** – Smooth transitions, crisp lines & updated color schemes.  
-✔ **User-Friendly Interface** – Easily track sales, payments, and inventory.  
-✔ **Future Enhancements** – More analytics, interactive elements & real-time updates coming soon!  
+We've introduced a **day-wise tracking system** that allows users to monitor the creation of *bluchers* (or items of any chosen category) over time.
 
-![image](https://github.com/user-attachments/assets/580f00f5-d0c6-48f5-964a-87382c8cea59)
+#### ✅ Key Highlights:
 
-Introducing the Sleek and Minimalistic Graphs – A Fresh Look for Your Business Insights!
+* 📅 **Daily Logs:** Automatically records and displays bluchers created on each day.
+* 📊 **Category Specific:** Supports filtering by category to focus on specific types of bluchers.
+* 📈 **Better Insights:** Enables trend analysis, helping users identify peak activity days.
+* 🔄 **Real-Time Updates:** Tracks and reflects new entries as they're created.
 
-<h1 align="center">Hello 👋, New Updated and More sleek and perfect Rich options </h1>
+#### 🔧 Use Cases:
+
+* Monitor daily user activity.
+* Track system performance over time.
+* Analyze trends in item/category creation.
+
+> This feature improves visibility and traceability, making it easier to generate reports or visualize data trends for decision-making.
+
+---
+
+![image](https://github.com/user-attachments/assets/17064d38-55c2-4c82-8db6-267eed86856d)
+
+New Features Added
+
+<h1 align="center">Hello 👋, New Beautiful Dashboard </h1>
 
 
-vouchers are the documents that record financial transactions, and they are categorized into accounting and inventory vouchers, allowing users to track financial activities and inventory items separately. 
+---
+
+### 🚀 New Dashboard Released: Fast, Dynamic & Insightful
+
+We’re excited to introduce a completely redesigned **Dashboard** that is faster, smarter, and more interactive than ever before!
+
+#### ⚡ Key Features:
+
+* 🔁 **Auto-Refresh Enabled:** Real-time updates every few seconds without manual reloading.
+* 🧠 **Optimized Performance:** Reduced backend load with efficient data handling and lightweight rendering.
+* ⬆️⬇️ **Smooth Slider Navigation:** Easily scroll through data and visual components using up/down sliders.
+* 🔄 **Quick Refresh Buttons:** Instantly update graphs, metrics, and data with a single click.
+
+#### 📊 Visual Improvements:
+
+* 📉 **Sales, Payment & Revenue Info:** View updated figures for total sales, payments received, and outstanding amounts.
+* 🥧 **Pie Charts:** Breakdown of sales, payments, and category-wise analytics.
+* 📊 **Bar Graphs:** Compare daily/weekly/monthly stats with clarity and precision.
+* 📈 **Line Charts:** Track trends in key metrics over time.
+
+#### 🎯 Benefits:
+
+* Live data visibility.
+* Clean and modern UI with instant interaction.
+* Better decision-making with richer visual insights.
+
+> 💡 Ideal for business owners, analysts, and teams who need **up-to-date, real-time metrics** with minimal system load.
+
+---
+
+![image](https://github.com/user-attachments/assets/7bb10170-52cb-4ce2-9b0d-c691731d2a62)
+
+<h1 align="center">Hello 👋, New quick menu bar </h1>
+
+---
+
+### 🧭 New Feature: Quick Menu Bar for Instant Access
+
+We’ve added a **Quick Menu Bar** to enhance navigation and improve productivity across the dashboard and other modules.
+
+#### ⚙️ Key Features:
+
+* ⚡ **Instant Access:** One-click access to commonly used actions and pages.
+* 🎛️ **Minimal & Responsive:** Lightweight, clean UI with mobile-friendly design.
+* 🧩 **Customizable Items:** Easily configurable to include links like:
+
+  * 📈 Dashboard
+  * 📋 Reports
+  * 💳 Payments
+  * 🧾 Sales
+  * 🛠️ Settings
+  * 🔒 Logout
+* 🔁 **Sticky or Floating Support:** Can be fixed at top/bottom or float for better accessibility.
+* 🌙 **Dark/Light Theme Compatible**
+
+#### 🎯 Benefits:
+
+* Saves time by reducing clicks.
+* Keeps important tools always within reach.
+* Smooth integration with existing layout.
+
+> The Quick Menu Bar helps streamline workflows and ensures key operations are never more than a click away.
+
+---
+
+![image](https://github.com/user-attachments/assets/b435585f-d0fc-4e52-a43f-2378abdd4639)
+
+New finacial report daily
+<h1 align="center">Hello 👋, New *Daily Financial Report* </h1>
+
+---
+
+### 📅 New Feature: Daily Financial Report
+
+Introducing a **Daily Financial Report** module to help you stay on top of your financial health with real-time updates and clear breakdowns.
+
+#### 📊 Key Features:
+
+* 🗓️ **Daily Tracking:** Automatically generates a financial summary for each day.
+* 💵 **Income & Expenses Overview:** Shows total sales, payments received, outstanding amounts, and expenses.
+* 🧾 **Category-wise Breakdown:** Analyze income and expenses by category (e.g., sales, refunds, dues).
+* 📈 **Visual Reports:** Includes pie charts and bar graphs for easy interpretation.
+* 🔁 **Auto-Refresh Support:** Report data updates in real-time with minimal system load.
+* 📤 **Export Options:** Download daily reports in PDF or Excel format (if enabled).
+
+#### ✅ Benefits:
+
+* Clear visibility into daily cash flow.
+* Helps in budgeting and financial planning.
+* Quick detection of any irregularities.
+
+> Stay informed. Stay in control. Your financial data—delivered fresh every day.
+
+---
+
+![image](https://github.com/user-attachments/assets/294028ba-4643-4f04-b440-8e59a03d9fdb)
+
+<h1 align="center">Hello 👋, Auto WhatsApp sending bills support </h1>
 
 
-<h2>Types of Vouchers in TallyPrime:</h2>
+---
+
+### 📤 New Feature: Auto WhatsApp Bill Sending (Ledger + Day-wise Reports)
+
+We’ve added **WhatsApp integration** to automatically send bills and reports directly to customers — saving time and ensuring faster communication.
+
+#### 📲 Key Highlights:
+
+* ✅ **Automatic Bill Sending via WhatsApp**
+
+  * Sends bills/invoices immediately after transactions.
+  * Supports PDF or image format attachments.
+* 📆 **Day-wise Report Sharing**
+
+  * Automatically sends daily financial summaries to predefined WhatsApp contacts.
+  * Includes total sales, payments, expenses, and outstanding balances.
+* 📒 **Ledger Integration**
+
+  * Send detailed customer ledger entries directly via WhatsApp.
+  * One-click share option for individual accounts.
+* 🧠 **Smart Messaging**
+
+  * Custom message templates with placeholders like `%Customer Name%`, `%Total Due%`, etc.
+  * Optional manual or scheduled sending.
+
+#### 🔐 Security & Control:
+
+* Send only to verified numbers.
+* Enable/disable sending for specific customers or reports.
+* Logs every WhatsApp interaction for audit and tracking.
+
+#### 💡 Benefits:
+
+* Faster customer communication.
+* Reduces manual follow-up.
+* Increases customer transparency and trust.
+
+> Automate routine communication and streamline your reporting process with smart WhatsApp integration.
+
+---
+
+![image](https://github.com/user-attachments/assets/1bda046b-b876-4b22-88a4-7da6d1d0ef62)
+
+![image](https://github.com/user-attachments/assets/fd15e939-3fde-466e-8251-cd7c1e8fd629)
+ 
+Here’s a professional GitHub-style description for your newly added **Date-wise Report Tracking for All Account Vouchers** feature:
+
+---
+<h1 align="center">📅 New Feature: Date-wise Report Tracking for All Account Vouchers </h1>
+
+
+### 📅 New Feature: Date-wise Report Tracking for All Account Vouchers
+
+Now introducing **date-wise reporting** to help users track **all account vouchers** with precision and ease.
+
+#### 📌 Key Highlights:
+
+* 🗓️ **Daily Voucher Tracking:**
+
+  * View all vouchers (Sales, Purchase, Payments, Receipts, Journal, etc.) grouped by specific dates.
+* 🔍 **Filter by Date Range:**
+
+  * Quickly generate reports for any custom time period — daily, weekly, monthly, or yearly.
+* 📂 **Voucher Type Segregation:**
+
+  * Organized view of different voucher types for better understanding and auditing.
+* 📊 **Summary & Totals:**
+
+  * Displays total credit, debit, balance, and net movement per day.
+* 📤 **Export Support:**
+
+  * Download date-wise reports in Excel or PDF for sharing or compliance.
+
+#### 🔄 Real-Time Sync:
+
+* Auto-refresh to reflect the latest entries and adjustments.
+
+#### 💼 Use Cases:
+
+* Audit and accounting reviews.
+* Daily financial reconciliation.
+* Tracking all financial activities in a structured timeline.
+
+> Gain full visibility into your day-to-day financial transactions with this powerful new report system.
+
+---
+
+![image](https://github.com/user-attachments/assets/c0c8113f-d231-4fc8-89f6-13ca8fa0a681)
+
+<h1 align="center">🏦 New Feature: Seamless Banking & UPI Payment Acceptance </h1>
+
+---
+
+### 🏦 New Feature: Seamless Banking & UPI Payment Acceptance
+
+We’ve added full support for accepting payments via **Bank Transfer** and **UPI** with no manual intervention or negotiation required.
+
+#### 💳 Key Highlights:
+
+* 📲 **UPI Payments Supported**
+
+  * Accept payments instantly via UPI apps (e.g., Google Pay, PhonePe, Paytm, BHIM).
+  * Auto-link UPI IDs to customer accounts.
+* 🏦 **Bank Transfer Integration**
+
+  * Accept direct NEFT/IMPS/RTGS payments to your linked bank account.
+  * Real-time confirmation and ledger updates.
+* 🔒 **No Manual Negotiation**
+
+  * Fixed payment terms ensure there's no back-and-forth or bargaining.
+  * Auto-verify the amount before marking as paid.
+* 🔔 **Payment Alerts**
+
+  * Instant notification when a payment is received.
+  * Logs each transaction with reference ID and payment method.
+
+#### 📈 Benefits:
+
+* Saves time with instant digital payments.
+* Improves accuracy in bookkeeping.
+* Enables fast and secure financial workflows.
+
+> Accept payments smoothly and securely — no delay, no negotiation, just confirmation.
+
+---
+
+Would you like help designing the UI flow for this or integrating a payment API (like Razorpay, Cashfree, or WhatsApp UPI intent)?
+
+![image](https://github.com/user-attachments/assets/890d9c4e-3cf7-4e55-9720-5ff976b21aec)
+
+![image](https://github.com/user-attachments/assets/d3553c7b-4a89-4d8f-b68a-8a13f59873d8)
+
+![image](https://github.com/user-attachments/assets/ba7c5181-9c07-4195-ae23-b2b6f8e962fb)
+
+<h1 align="center">🏦 Category and payment method and many more added  </h1>
+
+
+Here's a professional and concise GitHub description for your newly added **Unit Features**:
+
+---
+
+### 📦 New Feature: Unit Management System
+
+We’ve added a powerful **Unit Feature** to support inventory and billing accuracy across all product and service entries.
+
+#### 🧮 Key Highlights:
+
+* 📐 **Multiple Unit Support**
+
+  * Define and manage units like pcs, kg, liter, meter, box, dozen, etc.
+* 🔁 **Unit Conversion**
+
+  * Support for **base units** and **alternate units** (e.g., 1 box = 12 pcs).
+* 🧾 **Unit-wise Billing**
+
+  * Auto-calculate totals based on selected units during billing or invoicing.
+* 🏷️ **Item-wise Unit Setup**
+
+  * Assign specific units to each product or category.
+* 📊 **Reports with Units**
+
+  * View stock, sales, and purchase reports with accurate unit representation.
+
+#### ✅ Benefits:
+
+* Accurate inventory tracking.
+* Better clarity for billing and sales.
+* Simplifies stock and conversion management.
+
+> The new unit system ensures precision and flexibility in both inventory and financial workflows.
+
+---
+
+![image](https://github.com/user-attachments/assets/cc04eec1-af73-4f8e-9726-ea2ba7f0711c)
+
+Here’s a professional GitHub description to document your newly added **Category Features** (e.g., Electronics, Vegetables):
+
+---
+
+### 🗂️ New Feature: Category Management System
+
+We’ve added support for **Category Features** to organize products and services more efficiently across the platform.
+
+#### 🏷️ Key Highlights:
+
+* 📦 **Product Categorization**
+
+  * Easily group items under categories like **Electronics**, **Vegetables**, **Grocery**, **Clothing**, etc.
+* ➕ **Custom Categories**
+
+  * Add, edit, or delete categories as per your business needs.
+* 🔍 **Category-Based Filtering**
+
+  * Quickly search, filter, and view reports based on selected categories.
+* 📊 **Category-Wise Reports**
+
+  * View sales, stock, or transaction data grouped by category.
+* 🔁 **Bulk Actions**
+
+  * Assign or reassign items to categories in bulk for easy management.
+
+#### ✅ Benefits:
+
+* Better product organization.
+* Faster navigation and search.
+* Clear insights in reports and analytics.
+
+> Category management helps streamline your inventory and gives structure to your sales, reports, and business logic.
+
+---
+
+![image](https://github.com/user-attachments/assets/bb6a09b4-f55e-4cac-902f-15397cd788d4)
+
+
+
 ## Accounting Vouchers:
 Used to record financial transactions like payments, receipts, purchases, and sales. 
 
@@ -206,54 +519,6 @@ The Contra Voucher simplifies internal fund management, ensuring that cash and b
 
 <h2> some more like that Material in & out , Credit Note & Debit note, Delivery Note some more need to add if requirement </h3>
 
-## Inventory Management:
-
----
-
-## **📥 Inventory Management – Add & Manage Products Efficiently**  
-
-### **📌 Add Products – Effortless Stock Management**  
-- **📦 Track product details like name, category, unit, price, & tax.**  
-- **🔄 Auto-update inventory during transactions.**  
-
-💡 **How to Add Products?**  
-1️⃣ Go to **Inventory > Products > Create Product**.  
-2️⃣ Enter **Product Name, Category, Price, etc.**  
-3️⃣ Press **Ctrl + A** to save.  
-
-![image](https://github.com/user-attachments/assets/a27be596-112f-4140-907a-a30611a4424a)
-
-![image](https://github.com/user-attachments/assets/28a4c0c1-1b44-4a31-a1f7-6aebdcb8b70c)
-
-
-
-
-
----
-
-### **📌 Add Customers – Streamline Customer Management**  
-- **👥 Store customer details (name, contact, billing, etc.).**  
-- **💳 Set payment terms & credit limits.**  
-
-💡 **How to Add Customers?**  
-1️⃣ Go to **Accounts Info > Ledgers > Create**.  
-2️⃣ Enter **Customer Name, Contact Info, etc.**  
-3️⃣ Save with **Ctrl + A**.  
-
-
-![image](https://github.com/user-attachments/assets/65039230-53b6-496d-987f-55f2ec504b31)
-
-
----
-
-### **📌 Add Units of Measurement – Standardize Product Tracking**  
-- **⚖️ Define units like KG, Box, Pieces, etc.**  
-- **📊 Ensure accurate stock calculations.**  
-
-💡 **How to Add Units?**  
-1️⃣ Go to **Inventory Info > Units of Measurement**.  
-2️⃣ Define **Unit Name, Abbreviation, etc.**  
-3️⃣ Save with **Ctrl + A**.  
 
 ---
 
@@ -266,3 +531,5 @@ This billing software continues to evolve, bringing new tools to **simplify acco
 📢 **Start Managing Your Business More Efficiently Today!** 💼💰  
 
 🔥 **For support & updates, contact us anytime!**
+
+
